@@ -37,3 +37,7 @@ An interactive E-commerce Sales Dashboard (Power BI) that tracks year-to-date (Y
 
 
 7. Make some strategy to urge people for second class shipment for more revenue.
+
+
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Humna241/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20sales%20dashboard%20.PNG)
